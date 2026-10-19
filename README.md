@@ -131,3 +131,4 @@ Here are the comments from few of my fellow Rustaceans 🚀
 > As a rust(🚀) developer, I have no idea how any of my code or computers actually works, but its cool to ask people in discord.gg/rust(🚀) for all help and write code🚀
 
 I've recently added source to where I've got these quotes from, when I get time I will add sources to where there messages are from, for now some sources aren't marked
+test line
